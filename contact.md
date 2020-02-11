@@ -12,7 +12,7 @@ My CV is available [here][1], and you can see examples of my code on my [GitHub]
 
 
 <!-- <p style="text-align: center;"> -->
-&middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  
+&middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;   
 <!-- </p> -->
 
 Mi currículum está disponible [aquí][2], y se pueden ver ejemplos de mi código en mi [GitHub](https://github.com/jordanjasuta). Para consultas o para proponer una colaboración, por favor escribir a [jordan.j.fischer@gmail.com](mailto:jordan.j.fischer@gmail.com).
