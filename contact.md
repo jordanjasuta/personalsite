@@ -4,16 +4,17 @@ title: Contact
 permalink: /contact/
 ---
 
-Jekyll is a great tool to create static sites, but there’s no backend to send your data to.
+My CV is available [here][1], and you can see examples of my code on my [GitHub](https://github.com/jordanjasuta). For inquiries or to propose a collaboration, please write to [jordan.j.fischer@gmail.com](mailto:jordan.j.fischer@gmail.com). 
 
-However, you can use free SaaS as a backend for forms, such as [Formspree](https://formspree.io/) to handle form submissions. Sleek has a configured form using formspree ready for you. All you have to do is change the email in `.config.yml`.
+<!-- [1]: /{{site.baseurl}}/assets/CVJordanJasutaFischer11.2019.pdf  -->
 
-Check the form below to see it in action!
+[1]: /PersonalPage/assets/CVJordanJasutaFischer11.2019.pdf
 
-### Example Formspree contact form with validation and reCaptcha
 
-Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
+<!-- <p style="text-align: center;"> -->
+&middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  
+<!-- </p> -->
 
-{% include form.html %}
+Mi currículum está disponible [aquí][2], y se pueden ver ejemplos de mi código en mi [GitHub](https://github.com/jordanjasuta). Para consultas o para proponer una colaboración, por favor escribir a [jordan.j.fischer@gmail.com](mailto:jordan.j.fischer@gmail.com).
 
-{% include modal.html %}
+[2]: /PersonalPage/assets/CVJordanJasutaFischer11.2019.pdf

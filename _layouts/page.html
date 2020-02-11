@@ -19,11 +19,55 @@ layout: compress
 
     {% include header.html %}
 
+<!--
     <div class="hero--small">
       <div class="hero__wrap">
         <h1 class="hero__title">{{ page.title }}</h1>
       </div>
     </div>
+-->
+
+
+      <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <style>
+      .container2 {
+        position: relative;
+        text-align: center;
+        color: white;
+      }
+
+      .centered {
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+
+      .hero__title{
+        font-size:2.5em;
+        color:#fff
+      }
+
+      </style>
+      </head>
+      <body>
+
+      <div class="container2">
+        <img src="{{site.baseurl}}/assets/img/posts/suriname_thin.png" style="width:100%;">
+        <div class="centered">
+          <h1 class="hero__title">{{ page.title }} </h1>
+        </div>
+      </div>
+
+      </body>
+
+
+
+
+
+
+
     <main class="site__content">
 
       <div class="container">
