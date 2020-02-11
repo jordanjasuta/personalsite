@@ -1,4 +1,4 @@
-## Personal website available at: https://jordanjasuta.github.io/personalsite/
+### Personal website available at: https://jordanjasuta.github.io/personalsite/
 
 Created using the [Sleek Jekyll Theme](https://github.com/janczizikow/sleek)
 
