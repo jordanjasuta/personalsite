@@ -3,9 +3,11 @@ title: Personal Site # your site title
 author: Jordan Jasuta Fischer # You :P
 description: > # Meta description of Homepage
   A collection of recent professional achievements and quick references for more info on the work I've done
-baseurl: personalsite # the subpath of your site, e.g. /blog
-url: "https://jordanjasuta.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: personalsite # the subpath of your site, e.g. /blog
+# url: "https://jordanjasuta.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
+baseurl: 
+url: ""
 
 # SEO PLUGIN
 social:

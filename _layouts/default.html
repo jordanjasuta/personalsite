@@ -6,6 +6,25 @@ layout: compress
 
   {% include head.html %}
 
+  <style>
+    .container2 {
+        position: relative;
+        text-align: center;
+        color: white;
+      }
+
+      .centered {
+        position: absolute;
+        top: 55%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+
+      .hero__title{
+        font-size:2.5em;
+        color:#fff
+      }
+  </style>
   <body class="site">
 
     {% if site.google_tag_manager %}
@@ -19,12 +38,22 @@ layout: compress
 
     {% include header.html %}
 
-    <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.hero_img }}">
+    <!-- <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.hero_img }}">
       <div class="hero__wrap">
         <h1 class="hero__title">{{ site.title | escape }}</h1>
         <p class="hero__meta">{{ site.tagline }}</p>
       </div>
+    </div> -->
+
+
+    <div class="container2">
+      <!-- <img src="{{site.baseurl}}/assets/img/posts/suriname_thin.png" style="width:100%;"> -->
+      <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/suriname.jpg" style="width:100%;">
+      <div class="centered">
+        <h1 class="hero__title"> Personal Site </h1>
+      </div>
     </div>
+
 
     <main class="site__content">
       <section class="blog">
