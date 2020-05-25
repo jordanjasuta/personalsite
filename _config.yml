@@ -6,7 +6,7 @@ description: > # Meta description of Homepage
 # baseurl: personalsite # the subpath of your site, e.g. /blog
 # url: "https://jordanjasuta.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
-baseurl: 
+baseurl:
 url: ""
 
 # SEO PLUGIN
@@ -19,10 +19,10 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+#  - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  artificial intelligence platforms &middot; cognitive analytics &middot; open code &middot; 
+  artificial intelligence platforms &middot; cognitive analytics &middot; open code &middot;
   <br>
   civic technology &middot; geospatial analysis projects &middot; full stack development
 
