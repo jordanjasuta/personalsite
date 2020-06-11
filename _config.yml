@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: Personal Site # your site title
+title: Portfolio # your site title
 author: Jordan Jasuta Fischer # You :P
 description: > # Meta description of Homepage
   A collection of recent professional achievements and quick references for more info on the work I've done
@@ -33,7 +33,7 @@ email: jordan.j.fischer@gmail.com # email for form submission
 twitter_username:  jordanjasuta # replace with your_twitter_username or comment to remove link from footer
 github_username:  jordanjasuta # replace with your_github_username or comment to remove link from footer
 instagram_username:  # replace with your_instagram_username or comment to remove link from footer
-linkedin_username: 
+linkedin_username:
 
  disqus:
   shortname:  # to enable comments replace with your_disqus_shortname
