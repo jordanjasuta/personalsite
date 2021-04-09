@@ -14,7 +14,7 @@ Independently, she also provides technology solutions consulting in machine lear
 <p style="text-align: center;">
 &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  </p>
 
-Jordan Jasuta Fischer es desarrolladora de inteligencia artificial (AI) y consultora gerente en análisis cognitivo en la división de servicio publico de IBM, donde se especializa en:
+Jordan Jasuta Fischer lidera el desarrollo de inteligencia artificial (AI) y es consultora en análisis cognitivo en la división de servicio publico de IBM, donde se especializa en:
 * _deep learning_ como NLP (clasificación y extracción de entidades), detección de objetos y análisis de imagenes (inclusive mapeo de trayectorías y OCR)
 * modelos predictivos y prescriptivos usando datos de sensores (inclusive de vehículos y satelites)
 * desarrollo _full-stack_ para hacer fácilmente accesible la analítica compleja
