@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Jordan Jasuta Fischer is an AI developer and managing cognitive analytics consultant in IBM's public service division, where she specializes in:
+Jordan Jasuta Fischer is an AI development lead and cognitive analytics consultant in IBM's public service division, where she specializes in:
 * deep learning such as NLP (classification and entity extraction), object detection and imagery analysis (including trajectory mapping and OCR)
 * predictive and prescriptive models using sensor data (including vehicle and satellite data)
 * full-stack development to make complex analytics more readily accessible
