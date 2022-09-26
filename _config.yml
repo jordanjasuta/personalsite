@@ -19,7 +19,7 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
- - {name: 'Recognition', link: '/recognition'}
+  - {name: 'Recognition', link: '/recognition'}
 
 tagline: >
   artificial intelligence platforms &middot; cognitive analytics &middot; open code &middot;
