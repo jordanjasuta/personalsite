@@ -38,3 +38,9 @@ __Academic__
 * Fischer, J. [Politics in China: Has the People’s Government Set Itself up for a People’s Revolt?](http://epubs.utah.edu/index.php/HJP/article/viewFile/664/507) Hinckley Journal of Politics, 22-27 (2012).
 
 * Fischer, J. [Rethinking Healthcare: China’s Aging Population](https://issuu.com/g20magazine/docs/apec). APEC CEO Summit Magazine, 94-98 (2011).
+
+__Other Honors__
+
+* IBM Consulting Corporate Technical Award: Entrepreneur Award (2022)
+* Innovation and Delivery Excellence Awards: Best AI Project (2021)
+* Innovation and Delivery Excellence Awards: Best Growth Platform Collaboration (2021)
