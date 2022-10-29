@@ -41,7 +41,9 @@ __Academic__
 
 __Other Honors__
 
-* IBM Consulting Corporate Technical Award: Entrepreneur Award (2022)
+* IBM Entrepreneur Award (2022)
+
+* IBM Consulting Corporate Technical Award (2022)
 
 * Innovation and Delivery Excellence Awards: Best AI Project (2021)
 
