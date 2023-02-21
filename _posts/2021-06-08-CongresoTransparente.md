@@ -11,6 +11,4 @@ Review the codebase [here](https://github.com/jordanjasuta/CongresoTransparente)
 
 Watch the presentation of the CongresoTransparente framework at [RightsCon](https://www.rightscon.org/) here:
 
-[![RightsCon presentation of CongresoTransparente framework]
-(https://img.youtube.com/vi/DcE_uR1TEzU/maxresdefault.jpg)]
-(https://youtu.be/DcE_uR1TEzU)
+{% include youtube.html id="DcE_uR1TEzU" %}  
