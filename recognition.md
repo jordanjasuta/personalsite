@@ -39,7 +39,9 @@ __Academic__
 
 * Fischer, J. [Rethinking Healthcare: China’s Aging Population](https://issuu.com/g20magazine/docs/apec). APEC CEO Summit Magazine, 94-98 (2011).
 
-__Other Honors__
+__Awards__
+
+* IBM Technology Consulting honoree (2023)
 
 * IBM Entrepreneur Award (2022)
 
