@@ -7,6 +7,8 @@ permalink: /recognition/
 
 __Conferences/Events__
 
+* _(upcoming)_ Fischer J, Villany J, Barshay M. “Harnessing Large Language Models (LLMs) for Traceable Results.” Keynote, GovAI Summit, Modev. Dec 5, 2023.
+
 * Fischer J. “Ensemble NLP to classify medical conditions.” Georgetown University: Interdisciplinary Text Analysis Research working group (Massive Data Institute). Guest speaker, Feb 16, 2022.
 
 * Fischer J. “Ensemble NLP to classify medical conditions.” R Conference: Government & Public Sector, Lander Analytics. Virtual conference, Dec 9-10, 2021. Recording available [here](https://www.youtube.com/watch?v=YHAeGBM9z3I).
@@ -31,7 +33,7 @@ __News/Blogs__
 
 __Academic__
 
-* Fischer J, Cerpa M, Mendez J, Lee R, D’Mello T, Rodriguez A, Palekar R. [Influenza and Other Respiratory Virus Surveillance Systems in the Americas: 2014](https://www.paho.org/hq/dmdocuments/2014/2014-cha-influenza-orv-surveillance-americas.pdf). Washington, DC: Pan American Health Organization (2015 Also available in [Spanish](https://www.paho.org/hq/dmdocuments/2014/2014-cha-vigilancia-influenza-ovr-americas.pdf).
+* Fischer J, Cerpa M, Mendez J, Lee R, D’Mello T, Rodriguez A, Palekar R. [Influenza and Other Respiratory Virus Surveillance Systems in the Americas: 2014](https://www.paho.org/hq/dmdocuments/2014/2014-cha-influenza-orv-surveillance-americas.pdf). Washington, DC: Pan American Health Organization (2015). Also available in [Spanish](https://www.paho.org/hq/dmdocuments/2014/2014-cha-vigilancia-influenza-ovr-americas.pdf).
 
 * Siddiq F, Fischer J. [Population Volatility in Large Counties in the United States](https://link.springer.com/article/10.1007/s11294-013-9413-4). International Advances in Economic Research 19, 321–323 (2013).
 
