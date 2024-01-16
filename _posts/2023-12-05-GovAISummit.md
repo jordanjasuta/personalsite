@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GovAI Summit: Harnessing LLMs for Traceability (IBM)
+title: GovAI Summit - Harnessing LLMs for Traceability (IBM)
 featured-img: govai
 mathjax: true
 ---
