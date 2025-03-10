@@ -27,6 +27,9 @@ __Conferences/Events__
 
 * Fischer J. “Transparent representation: an open-source ecosystem for political accountability.” Tech demo, RightsCon, Access Now. Virtual conference, June 8, 2021.
 
+* Dazzo P, Fischer J, Jones J. "Raising the Stakes: Building Safety and Trust in Evaluations of at-Risk Populations". Panel, American Evaluation Association Conference 2017. Panelist, November 6th, 2017. 
+
+
 __News/Blogs__
 
 * Fischer J. [8 Fatal Mistakes to Avoid when Ordering an AI System](https://medium.com/mlearning-ai/fatal-mistakes-to-avoid-when-designing-an-ai-system-952a4a1fb6de). Medium/MachineLearning.ai (Jan 2022).
