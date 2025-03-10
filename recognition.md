@@ -27,7 +27,7 @@ __Conferences/Events__
 
 * Fischer J. “Transparent representation: an open-source ecosystem for political accountability.” Tech demo, RightsCon, Access Now. Virtual conference, June 8, 2021.
 
-* Dazzo P, Fischer J, Jones J. "Raising the Stakes: Building Safety and Trust in Evaluations of at-Risk Populations". Panel, American Evaluation Association Conference 2017. Panelist, Nov 6th, 2017. 
+* Dazzo G, Fischer J, Jones J. "Raising the Stakes: Building Safety and Trust in Evaluations of at-Risk Populations". Panel, American Evaluation Association Conference 2017. Panelist, Nov 6th, 2017. 
 
 
 __News/Blogs__
