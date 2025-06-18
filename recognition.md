@@ -7,6 +7,10 @@ permalink: /recognition/
 
 __Conferences/Events__
 
+* Fischer J. "Adversarial AI Robustness: Testing & Evaluation Tools." Featured speaker, [DATAWorks](https://dataworks.testscience.org/) Defense and Aerospace Test and Analysis Workshop, IDA. April 23, 2025.
+
+* Fischer J. "Knowledge Management with GenAI: a public institution use case." Featured speaker, Data for Humanity event, Georgetown University & Mottum Analytica. April 16, 2025. Recording available [here](https://www.youtube.com/watch?app=desktop&v=inoC-wSW5jc). 
+
 * Fischer J, et al. ["The Future of Climate and Weather Modeling."](https://satsummit.io/2024-lisbon/agenda/#2024-lisbon-18-1400-future-climate-weather) Panel moderator, SatSummit 2024 (Lisbon), Development Seed. Nov 18, 2024.
 
 * Fischer J. "Inteligencia artificial para la generación de evidencia de política pública - innovación responsable y desafíos éticos." Speaker and panelist, Semana de la Evaluación gLOCAL 2024, [CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx). Nov 13, 2024. Recording available in Spanish [here](https://www.youtube.com/watch?v=C7kxp1dJWdU&ab_channel=CONEVALVIDEO)
@@ -27,7 +31,7 @@ __Conferences/Events__
 
 * Fischer J. “Transparent representation: an open-source ecosystem for political accountability.” Tech demo, RightsCon, Access Now. Virtual conference, June 8, 2021.
 
-* Dazzo G, Fischer J, Jones J. "Raising the Stakes: Building Safety and Trust in Evaluations of at-Risk Populations". Panel, American Evaluation Association Conference 2017. Panelist, Nov 6th, 2017. 
+* Dazzo G, Fischer J, Jones J. "Raising the Stakes: Building Safety and Trust in Evaluations of at-Risk Populations". Panel, American Evaluation Association Conference 2017. Panelist, Nov 6th, 2017.
 
 
 __News/Blogs__
