@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How AI is Transforming Development and Business in Latin America
+title: Knowledge Management with GenAI
 featured-img: dataforhumanity
 mathjax: true
 ---

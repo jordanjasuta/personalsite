@@ -9,7 +9,7 @@ __Conferences/Events__
 
 * Fischer J. "Adversarial AI Robustness: Testing & Evaluation Tools." Featured speaker, [DATAWorks](https://dataworks.testscience.org/) Defense and Aerospace Test and Analysis Workshop, IDA. April 23, 2025.
 
-* Fischer J. "Knowledge Management with GenAI: a public institution use case." Featured speaker, Data for Humanity event, Georgetown University & Mottum Analytica. April 16, 2025. Recording available [here](https://www.youtube.com/watch?app=desktop&v=inoC-wSW5jc). 
+* Fischer J. "Knowledge Management with GenAI: a public institution use case." Featured speaker, Data for Humanity (How AI is Transforming Development and Business in Latin America), Georgetown University & Mottum Analytica. April 16, 2025. Recording available [here](https://www.youtube.com/watch?app=desktop&v=inoC-wSW5jc). 
 
 * Fischer J, et al. ["The Future of Climate and Weather Modeling."](https://satsummit.io/2024-lisbon/agenda/#2024-lisbon-18-1400-future-climate-weather) Panel moderator, SatSummit 2024 (Lisbon), Development Seed. Nov 18, 2024.
 
