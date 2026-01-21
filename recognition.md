@@ -7,7 +7,7 @@ permalink: /recognition/
 
 __Conferences/Events__
 
-* Fischer, J. "7 usos para la inteligencia artificial además de los chatbots." Featured speaker, [Innovation and Leadership in Government](https://lalp.georgetown.edu/topics/innovation-and-leadership-in-government), Georgetown University Latin America Leadership Program. October 20, 2025. 
+* Fischer, J. "7 usos para la inteligencia artificial además de los chatbots." Featured speaker, [Innovation and Leadership in Government 2025](https://lalp.georgetown.edu/topics/innovation-and-leadership-in-government), Georgetown University Latin America Leadership Program. October 20, 2025. 
 
 * Fischer J. "Adversarial AI Robustness: Testing & Evaluation Tools." Featured speaker, [DATAWorks](https://dataworks.testscience.org/full-agenda/) Defense and Aerospace Test and Analysis Workshop, IDA. April 23, 2025.
 
