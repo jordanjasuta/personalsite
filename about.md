@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Jordan Jasuta Fischer is a Lead AI Developer and Cognitive Analytics Architect in IBM's public service division, where she specializes in:
+Jordan Jasuta Fischer is a Lead AI Developer and Architect in IBM's public service division, where she specializes in:
 * deep learning on unstructured data such as text (NLP classification including NNs and LLMs), images (object detection and identification), and geospatial data
 * predictive and prescriptive models using sensor data (including vehicle and satellite data)
 * full-stack development (the creation and maintenance of websites and web applications) to make complex analytics more readily accessible
@@ -14,7 +14,7 @@ She also provides consulting on the design and implementation of technology solu
 <p style="text-align: center;">
 &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  </p>
 
-Jordan Jasuta Fischer es desarrolladora de inteligencia artificial (IA) principal y arquitecta de análisis cognitivo en la división de servicio publico de IBM, donde se especializa en:
+Jordan Jasuta Fischer es desarrolladora y arquitecta de inteligencia artificial (IA) principal en la división de servicio publico de IBM, donde se especializa en:
 * _deep learning_ en datos no estructurados como texto (usando técnicas de _natural language processing_ o NLP), imágenes (detección e identificación de objetos) y datos geoespaciales
 * modelos predictivos y prescriptivos usando datos de sensores (incluyendo de vehículos y satelites)
 * desarrollo _full-stack_ (la creación y desarrollo de sitios y aplicaciones web) para hacer fácilmente accesible la analítica compleja
