@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Georgetown GCL Strategies for Institutional AI Adoption
+title: Strategies for Institutional AI Adoption
 featured-img: dataworks2025
 mathjax: true
 ---
