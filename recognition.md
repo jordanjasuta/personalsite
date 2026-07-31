@@ -7,9 +7,11 @@ permalink: /recognition/
 
 __Conferences/Events__
 
-* Fischer, J. "AI and Health Applications." Featured speaker, GWU Health IT Day, George Washington University Milken Institute School of Public Health & IBM.
+* Fischer, J & Lemus, E. "Estrategias para la adopción de IA a nivel institucional." Workshop leader, DICAP Empresarial. June 25, 2026. 
 
-* Fischer, J. "Innovation and AI: Strategies for Institutional Adoption." Guest lecturer, [Global Competitiveness Leadership](https://lalp.georgetown.edu/topics/global-competitiveness-leadership), Georgetown University Latin America Leadership Program. February 24, 2026.
+* Fischer, J. "AI and Health Applications." Featured speaker, GWU Health IT Day, George Washington University Milken Institute School of Public Health & IBM. February 27, 2026.
+
+* Fischer, J. "Innovation and AI:Strategies for Institutional Adoption." Guest lecturer, [Global Competitiveness Leadership](https://lalp.georgetown.edu/topics/global-competitiveness-leadership), Georgetown University Latin America Leadership Program. February 24, 2026.
 
 * Martinez Y, Arnal M, Fischer J, Shah F. "Panel: Emerging Technology Trends." Panelist, World Bank internal event Digital Reskilling & Innovation for Value Excellence (DRIVE) for Latin America & Caribbean. January 29, 2026.
 
