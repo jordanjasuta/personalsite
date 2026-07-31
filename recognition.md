@@ -7,7 +7,7 @@ permalink: /recognition/
 
 __Conferences/Events__
 
-* Fischer, J & Lemus, E. "Estrategias para la adopción de IA a nivel institucional." Workshop leader, DICAP Empresarial. June 25, 2026. 
+* Fischer, J & Lemus, E. Executive education workshop "Estrategias para la adopción de IA a nivel institucional." Workshop leader, DICAP Empresarial. June 25, 2026. 
 
 * Fischer, J. "AI and Health Applications." Featured speaker, GWU Health IT Day, George Washington University Milken Institute School of Public Health & IBM. February 27, 2026.
 
