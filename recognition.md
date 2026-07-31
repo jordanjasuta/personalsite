@@ -7,7 +7,7 @@ permalink: /recognition/
 
 __Conferences/Events__
 
-* Fischer, J & Lemus, E. Executive education workshop "Estrategias para la adopción de IA a nivel institucional." Workshop leader, DICAP Empresarial. June 25, 2026. 
+* Fischer, J & Lemus, E. Executive education workshop "Estrategias para la adopción de IA a nivel institucional." Workshop leader, DICAP Empresarial. June 25, 2026.
 
 * Fischer, J. "AI and Health Applications." Featured speaker, GWU Health IT Day, George Washington University Milken Institute School of Public Health & IBM. February 27, 2026.
 
@@ -17,7 +17,7 @@ __Conferences/Events__
 
 * Fischer, J. "7 usos para la inteligencia artificial además de los chatbots." Featured speaker, [Innovation and Leadership in Government 2025](https://lalp.georgetown.edu/topics/innovation-and-leadership-in-government), Georgetown University Latin America Leadership Program. October 20, 2025.
 
-* Fischer J. "Adversarial AI Robustness: Testing & Evaluation Tools." Featured speaker, [DATAWorks](https://dataworks.testscience.org/full-agenda/) Defense and Aerospace Test and Analysis Workshop, IDA. April 23, 2025.
+* Fischer J. "Adversarial AI Robustness: Testing & Evaluation Tools." Featured speaker, [DATAWorks](https://testscience.org/dataworks-sessions-archive/) Defense and Aerospace Test and Analysis Workshop, IDA. April 23, 2025. Recording available [here](https://www.youtube.com/watch?v=xFtHeXNvGbE&list=PLeZrxAVa0tJkYQt8Jo07mMtx5TKbBu7UH&index=15)
 
 * Fischer J. "Knowledge Management with GenAI: a public institution use case." Featured speaker, Data for Humanity (How AI is Transforming Development and Business in Latin America), Georgetown University & Mottum Analytica. April 16, 2025. Recording available [here](https://www.youtube.com/watch?app=desktop&v=inoC-wSW5jc).
 
