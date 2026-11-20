@@ -7,7 +7,7 @@ permalink: /recognition/
 
 __Conferences/Events__
 
-* Rossi A, Foster H, Fischer J, Ordonez A, Ingeholm, C. "Panel: Navigating the Business Landscape in the Age of Artificial Intelligence." Panelist, Georgetown University LALP 20th anniversary event [Ahead of the Curve: Building Regional Advantage in a Shifting Global Landscape](https://lalp.georgetown.edu/events/celebrating-20-years-of-impact). November 6, 2026.
+* Rossi A, Fischer J, Foster H, Ingeholm C, Ordonez A. "Panel: Navigating the Business Landscape in the Age of Artificial Intelligence." Panelist, Georgetown University LALP 20th anniversary event [Ahead of the Curve: Building Regional Advantage in a Shifting Global Landscape](https://lalp.georgetown.edu/events/celebrating-20-years-of-impact). November 6, 2026.
 
 * Fischer, J & Lemus, E. ["OSM y la nueva frontera de la cartografía asistida por inteligencia artificial."](https://pretalx.cienciaenmexico.com/sotmlatam2026/talk/FZ7GBS/) Featured speaker, OSM [State of the Map Latam](https://www.osmlatam.org/sotm/2026-en/). October 27, 2026.
 
